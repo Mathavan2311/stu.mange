@@ -1,0 +1,39 @@
+{
+   "Students": [
+      {
+         "sino": 1,
+         "name": "Alan",
+         "age": "33",
+         "course": "Python",
+         "address": "tirunelveli\r\n"
+      },
+      {
+         "sino": 2,
+         "name": "dgd",
+         "age": "34",
+         "course": "Python",
+         "address": "xgfgdfg"
+      },
+      {
+         "sino": 3,
+         "name": "sdgsg",
+         "age": "34",
+         "course": "Tally",
+         "address": "xcgsg"
+      },
+      {
+         "sino": 4,
+         "name": "asdf",
+         "age": "23",
+         "course": "Python",
+         "address": "sadf"
+      },
+      {
+         "sino": 5,
+         "name": "Alan",
+         "age": "33",
+         "course": "Tally",
+         "address": "tirunelveli\r\n"
+      }
+   ]
+}
